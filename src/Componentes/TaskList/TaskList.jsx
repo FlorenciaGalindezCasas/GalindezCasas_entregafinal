@@ -70,7 +70,7 @@ export default function TaskList() {
                 <Tab>
                   <Flex>
                     <div className="modal">
-                      <div className='date'>
+                      <div className="date">
                         <div>
                           <p className="day">30</p>
                         </div>
@@ -78,7 +78,7 @@ export default function TaskList() {
                           <p>Nov 2023</p>
                         </div>
                         <div>
-                          <p>Wednesday</p>
+                          <p>Thursday</p>
                         </div>
                       </div>
                       <div className="btn-modal">
