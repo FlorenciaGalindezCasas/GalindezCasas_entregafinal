@@ -1,0 +1,23 @@
+.textDecoration {
+  text-decoration: line-through;
+
+}
+
+.tasks{
+  display: flex;
+  align-items: center;
+  gap:10px;
+  font-size: 1.3em;
+}
+
+.nombretask{
+  width:100%
+}
+
+.checkbox{
+  display:flex;
+  justify-content: flex-end;
+  margin-right: 25px;
+  width:100%
+}
+

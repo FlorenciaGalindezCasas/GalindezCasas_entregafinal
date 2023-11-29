@@ -1,0 +1,17 @@
+.redes{
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.redes a{
+    transition: all 1s ease;
+    font-size: 2rem
+}
+
+.redes a:hover{
+   color: white;
+   transform: scale(1.5)
+}
