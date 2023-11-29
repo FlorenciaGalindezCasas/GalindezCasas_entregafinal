@@ -6,6 +6,8 @@ aplicación deberá hacer uso de componentes funcionales, el hook useState para 
 estado, el hook useEffect para realizar efectos secundarios, y eventos para interactuar con el
 usuario.
 
+[Referencia](https://dribbble.com/shots/3271230-ToDo-List)
+
 ## Requerimientos
 
 ### Componentes Funcionales:
@@ -61,12 +63,10 @@ bibliotecas como styled-components si lo desea.
 persistan incluso después de recargar la página.
 
 ## Tecnologías
-
 Lista de tecnologías usadas en el proyecto:
 * [React + Vite](https://vitejs.dev/guide/)
 * [Chakra ui](https://chakra-ui.com/)
 
 ## Deploy 
-
 ### Netlify:
 * [Deploy](https://galindezcasas-entregafinal.netlify.app/)
