@@ -4,6 +4,7 @@ import {
   Input,
   Button,
 } from "@chakra-ui/react";
+import "../TaskForm/TaskForm.css"
 
 export default function TaskForm({ addTask, closeModal }) {
   const [taskData, setTaskData] = useState({
@@ -55,12 +56,18 @@ export default function TaskForm({ addTask, closeModal }) {
   };
 
   return (
-    <div>
-      <Input type="time" value={taskData.date} onChange={handleDate} />
+    <div className="formTask">
+      <Input
+        type="time"
+        value={taskData.date}
+        onChange={handleDate}
+        focusBorderColor="#AD97FD"
+      />
       <Input
         placeholder="New Task"
         value={taskData.task}
         onChange={handleTask}
+        focusBorderColor="#AD97FD"
       />
       <Button onClick={handleForm}>Save</Button>
     </div>
