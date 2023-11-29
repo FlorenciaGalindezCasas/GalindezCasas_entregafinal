@@ -6,7 +6,8 @@ aplicación deberá hacer uso de componentes funcionales, el hook useState para 
 estado, el hook useEffect para realizar efectos secundarios, y eventos para interactuar con el
 usuario.
 
-[Referencia](https://dribbble.com/shots/3271230-ToDo-List)
+[Referencia](https://dribbble.com/shots/3271230-ToDo-List)<br/>
+![Ref](https://github.com/FlorenciaGalindezCasas/GalindezCasas_entregafinal/assets/94094158/8b662896-8a69-4567-b2c6-987981e21ddb)
 
 ## Requerimientos
 
